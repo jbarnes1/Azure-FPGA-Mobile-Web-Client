@@ -1,0 +1,9 @@
+C:\Temp\ImageUpload\protos\bin\Release\netcoreapp2.0\tfserving.deps.json
+C:\Temp\ImageUpload\protos\bin\Release\netcoreapp2.0\tfserving.dll
+C:\Temp\ImageUpload\protos\bin\Release\netcoreapp2.0\tfserving.pdb
+C:\Temp\ImageUpload\protos\obj\Release\netcoreapp2.0\tfserving.csprojAssemblyReference.cache
+C:\Temp\ImageUpload\protos\obj\Release\netcoreapp2.0\tfserving.csproj.CoreCompileInputs.cache
+C:\Temp\ImageUpload\protos\obj\Release\netcoreapp2.0\tfserving.AssemblyInfoInputs.cache
+C:\Temp\ImageUpload\protos\obj\Release\netcoreapp2.0\tfserving.AssemblyInfo.cs
+C:\Temp\ImageUpload\protos\obj\Release\netcoreapp2.0\tfserving.dll
+C:\Temp\ImageUpload\protos\obj\Release\netcoreapp2.0\tfserving.pdb
