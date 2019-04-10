@@ -7,8 +7,8 @@ The API handles the call to the Azure FPGA service via a Grpc calls that handle 
 
 Below  is a demo link and screenshot of the application in action. The application will return the top predictions with associated confidence levels along with the elapsed FPGA execution time in milliseconds.   If a single prediction has less than a 90% confidence level, then the top (5) predictions are returned. 
 
-![File0](../file0.png) 
-![File2](../file2.png)
+![File0](FPGA_Mobile_App.png) 
+![File2](FPGA_Mobile_App2.png)
 
 
 
@@ -148,5 +148,5 @@ The Python notebook is based upon the Github project below:
 
 This notebook is meant to be run on an Azure Databricks Cluster with the following libraries installed:
 
-![File](../file.png)
+![File](Cluster_Libraries.png)
 
