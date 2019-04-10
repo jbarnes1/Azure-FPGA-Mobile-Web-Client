@@ -24,7 +24,7 @@ A text-based list of all the @1000 images can be found at: https://raw.githubuse
 
 Here's a *partial* list of the images in the Resnet50 Model hosted in the Azure FPGA service:
 ```  
-        tench, Tinca tinca
+    tench, Tinca tinca
     goldfish, Carassius auratus
     great white shark, white shark, man-eater, man-eating shark, Carcharodon carcharias
     tiger shark, Galeocerdo cuvieri
