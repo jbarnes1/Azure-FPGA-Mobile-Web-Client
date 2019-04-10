@@ -8,6 +8,7 @@ The API handles the call to the Azure FPGA service via a Grpc calls that handle 
 Below  is a demo link and screenshot of the application in action. The application will return the top predictions with associated confidence levels along with the elapsed FPGA execution time in milliseconds.   If a single prediction has less than a 90% confidence level, then the top (5) predictions are returned. 
 
 ![File0](FPGA_Mobile_App.png) 
+____________________________________
 ![File2](FPGA_Mobile_App2.png)
 
 
@@ -15,12 +16,15 @@ Below  is a demo link and screenshot of the application in action. The applicati
 Demo URL: http://jbfpga-image-predict.azurewebsites.net/jbjqm.html
 
 Note that when this application runs on a mobile phone, you can use the camera to take a photo and then upload it to get a real-time prediction.
+Pretty impressive - especially when you realize that the image library is made-up of *only* @1000 images... It is very interesting to see the predictions provided for random items you can snap with your mobile phone!
 
-A text-based list of all the @100 images can be found at: https://raw.githubusercontent.com/Lasagne/Recipes/master/examples/resnet50/imagenet_classes.txt
+What is also impressive is the response time for known items.  Repeated searches are also very fast due to caching. 
 
-Here's a <partial> list of the images in the Resnet50 Model hosted in the Azure FPGA service:
+A text-based list of all the @1000 images can be found at: https://raw.githubusercontent.com/Lasagne/Recipes/master/examples/resnet50/imagenet_classes.txt
 
-    tench, Tinca tinca
+Here's a *partial* list of the images in the Resnet50 Model hosted in the Azure FPGA service:
+```  
+        tench, Tinca tinca
     goldfish, Carassius auratus
     great white shark, white shark, man-eater, man-eating shark, Carcharodon carcharias
     tiger shark, Galeocerdo cuvieri
@@ -136,17 +140,18 @@ Here's a <partial> list of the images in the Resnet50 Model hosted in the Azure 
     snail
     slug
     sea slug, nudibranch
+```
+
+The FPGA application Image Prediction service can be generated via the following Python Jupyter notebook:
+[jbfpga_1_GitHub.ipynb](https://github.com/jbarnes1/Azure-FPGA-Mobile-Web-Client/blob/master/jbfpga_1_GitHub.ipynb)
 
 
-The FPGA application Image Prediction service can be generated via the project artifact - a Python Jypiter notebook named "jbfpga_1_GitHub.ipynb".
+This Python notebook is based upon the Github artifact below:
 
-The Python notebook is based upon the Github project below:
-
-    Azure ML Hardware Accelerated Models Quickstart
-    https://github.com/Azure/aml-real-time-ai/blob/master/notebooks/project-brainwave-quickstart.ipynb
+[Azure ML Hardware Accelerated Models Quickstart](https://github.com/Azure/aml-real-time-ai/blob/master/notebooks/project-brainwave-quickstart.ipynb)
 
 
 This notebook is meant to be run on an Azure Databricks Cluster with the following libraries installed:
 
-![File](Cluster_Libraries.png)
+![image](Cluster_Libraries.png)
 
