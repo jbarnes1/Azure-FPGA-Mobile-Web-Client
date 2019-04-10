@@ -1,0 +1,9 @@
+C:\Temp\ImageUpload\ImageWriter\bin\Release\netcoreapp2.2\ImageWriter.deps.json
+C:\Temp\ImageUpload\ImageWriter\bin\Release\netcoreapp2.2\ImageWriter.dll
+C:\Temp\ImageUpload\ImageWriter\bin\Release\netcoreapp2.2\ImageWriter.pdb
+C:\Temp\ImageUpload\ImageWriter\obj\Release\netcoreapp2.2\ImageWriter.csprojAssemblyReference.cache
+C:\Temp\ImageUpload\ImageWriter\obj\Release\netcoreapp2.2\ImageWriter.csproj.CoreCompileInputs.cache
+C:\Temp\ImageUpload\ImageWriter\obj\Release\netcoreapp2.2\ImageWriter.AssemblyInfoInputs.cache
+C:\Temp\ImageUpload\ImageWriter\obj\Release\netcoreapp2.2\ImageWriter.AssemblyInfo.cs
+C:\Temp\ImageUpload\ImageWriter\obj\Release\netcoreapp2.2\ImageWriter.dll
+C:\Temp\ImageUpload\ImageWriter\obj\Release\netcoreapp2.2\ImageWriter.pdb
