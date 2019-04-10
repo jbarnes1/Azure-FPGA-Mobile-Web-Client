@@ -1,0 +1,14 @@
+C:\Temp\ImageUpload\client\bin\Release\netcoreapp2.0\CSharpClient.deps.json
+C:\Temp\ImageUpload\client\bin\Release\netcoreapp2.0\CSharpClient.runtimeconfig.json
+C:\Temp\ImageUpload\client\bin\Release\netcoreapp2.0\CSharpClient.runtimeconfig.dev.json
+C:\Temp\ImageUpload\client\bin\Release\netcoreapp2.0\CSharpClient.dll
+C:\Temp\ImageUpload\client\bin\Release\netcoreapp2.0\CSharpClient.pdb
+C:\Temp\ImageUpload\client\bin\Release\netcoreapp2.0\tfserving.dll
+C:\Temp\ImageUpload\client\bin\Release\netcoreapp2.0\tfserving.pdb
+C:\Temp\ImageUpload\client\obj\Release\netcoreapp2.0\CSharpClient.csprojAssemblyReference.cache
+C:\Temp\ImageUpload\client\obj\Release\netcoreapp2.0\CSharpClient.csproj.CoreCompileInputs.cache
+C:\Temp\ImageUpload\client\obj\Release\netcoreapp2.0\CSharpClient.AssemblyInfoInputs.cache
+C:\Temp\ImageUpload\client\obj\Release\netcoreapp2.0\CSharpClient.AssemblyInfo.cs
+C:\Temp\ImageUpload\client\obj\Release\netcoreapp2.0\CSharpClient.csproj.CopyComplete
+C:\Temp\ImageUpload\client\obj\Release\netcoreapp2.0\CSharpClient.dll
+C:\Temp\ImageUpload\client\obj\Release\netcoreapp2.0\CSharpClient.pdb
