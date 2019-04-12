@@ -13,7 +13,7 @@ ____________________________________
 
 
 
-Demo URL: http://jbfpga-image-predict.azurewebsites.net/jbjqm.html
+Demo URL: http://jbfpga-image-predict.azurewebsites.net/default.html
 
 Note that when this application runs on a mobile phone, you can use the camera to take a photo and then upload it to get a real-time prediction.
 Pretty impressive - especially when you realize that the image library is made-up of *only* @1000 images... It is very interesting to see the predictions provided for random items you can snap with your mobile phone!
