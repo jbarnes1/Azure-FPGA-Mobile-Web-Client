@@ -1,8 +1,0 @@
-C:\a_NCSU_Data\FY19\GitHub_Postings\Azure-FPGA-Mobile-Web-Client\Azure-FPGA-Mobile-Web-Client\ImageUpload\ImageWriter\bin\Debug\netcoreapp2.2\ImageWriter.deps.json
-C:\a_NCSU_Data\FY19\GitHub_Postings\Azure-FPGA-Mobile-Web-Client\Azure-FPGA-Mobile-Web-Client\ImageUpload\ImageWriter\bin\Debug\netcoreapp2.2\ImageWriter.dll
-C:\a_NCSU_Data\FY19\GitHub_Postings\Azure-FPGA-Mobile-Web-Client\Azure-FPGA-Mobile-Web-Client\ImageUpload\ImageWriter\bin\Debug\netcoreapp2.2\ImageWriter.pdb
-C:\a_NCSU_Data\FY19\GitHub_Postings\Azure-FPGA-Mobile-Web-Client\Azure-FPGA-Mobile-Web-Client\ImageUpload\ImageWriter\obj\Debug\netcoreapp2.2\ImageWriter.csproj.CoreCompileInputs.cache
-C:\a_NCSU_Data\FY19\GitHub_Postings\Azure-FPGA-Mobile-Web-Client\Azure-FPGA-Mobile-Web-Client\ImageUpload\ImageWriter\obj\Debug\netcoreapp2.2\ImageWriter.AssemblyInfoInputs.cache
-C:\a_NCSU_Data\FY19\GitHub_Postings\Azure-FPGA-Mobile-Web-Client\Azure-FPGA-Mobile-Web-Client\ImageUpload\ImageWriter\obj\Debug\netcoreapp2.2\ImageWriter.AssemblyInfo.cs
-C:\a_NCSU_Data\FY19\GitHub_Postings\Azure-FPGA-Mobile-Web-Client\Azure-FPGA-Mobile-Web-Client\ImageUpload\ImageWriter\obj\Debug\netcoreapp2.2\ImageWriter.dll
-C:\a_NCSU_Data\FY19\GitHub_Postings\Azure-FPGA-Mobile-Web-Client\Azure-FPGA-Mobile-Web-Client\ImageUpload\ImageWriter\obj\Debug\netcoreapp2.2\ImageWriter.pdb
