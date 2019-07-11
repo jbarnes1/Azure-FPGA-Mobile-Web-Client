@@ -55,6 +55,8 @@ Once you have a working model deployed and working with a test Python client (in
 
  * ![IP Address Correlation:](Python-ASP.NET_Correlation.png)
 
+You can see a aorking demo at this URL: 
+ * [Demo:](https://jbfpga.azurewebsites.net/jbjqm.html)
 
 
 
