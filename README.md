@@ -10,13 +10,12 @@ by adding a JQuery Mobile enabled Web client. The client can then be used to fur
   * Receive up to (5) predictions (ordered by probability).
   * Prediction timing data for the FPGA Web Service Call. 
 
-
 This repo contains extensions to previous work from these sources:  
 
-  Microsoft Azure Machine Learning Hardware Accelerated Models Powered by Project Brainwave
+ * Microsoft Azure Machine Learning Hardware Accelerated Models Powered by Project Brainwave
   https://github.com/Azure/aml-real-time-ai
 
-  Deploy a model as a web service on an FPGA with Azure Machine Learning service
+ * Deploy a model as a web service on an FPGA with Azure Machine Learning service
   https://docs.microsoft.com/en-us/azure/machine-learning/service/how-to-deploy-fpga-web-service
 
 Below is a high-level overview of the Architecture and the (2) basic steps to create this solution:
