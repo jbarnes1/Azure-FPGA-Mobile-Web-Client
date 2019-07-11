@@ -42,14 +42,14 @@ Using these exciting new Azure technologies like Machine Learning and FPGA, it i
 
 First, follow the link below to provision an AML environment.
 
-   Deploy a model as a web service on an FPGA with Azure Machine Learning service
+  * Deploy a model as a web service on an FPGA with Azure Machine Learning service
    https://docs.microsoft.com/en-us/azure/machine-learning/service/how-to-deploy-fpga-web-service
 
-Make sure you have the appropriate permisions to deploy an FPGA-Enabled AKS Cluster in your subscription.  You can request a quota increase using this form: 
-[FPGA Quota Request Form:](https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR2nac9-PZhBDnNSV2ITz0LNUN0U5S0hXRkNITk85QURTWk9ZUUFUWkkyTC4u)
+Make sure you have the appropriate VM quota permisions to deploy an FPGA-Enabled AKS Cluster in your subscription.  You can request a quota increase using this form: 
+  *[FPGA Quota Request Form:](https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR2nac9-PZhBDnNSV2ITz0LNUN0U5S0hXRkNITk85QURTWk9ZUUFUWkkyTC4u)
 
 Next, use this PYTHON Notebook to develop/deploy an ML model to an FPGA-enabled AKS Cluster: 
-[Python Notebook:](https://github.com/jbarnes1/Azure-FPGA-Mobile-Web-Client/blob/master/Notebooks/jbFPGA_Python_AML_Service_v5.ipynb)
+  * [Python Notebook:](https://github.com/jbarnes1/Azure-FPGA-Mobile-Web-Client/blob/master/Notebooks/jbFPGA_Python_AML_Service_v5.ipynb)
 
 
 
