@@ -34,8 +34,7 @@ Below is an example of poisonous snake detection.
  * On the left - an image of a Garter Snake - which is non-venomous and virtually harmless. 
  * On the right - an image of the Green Mamba - which is a highly venomous snake.
 
-
-
 ![Image description](FPGA_Predict_4_GarterSnake.png) ![Image description](FPGA_Predict_3_GreenMamba.png)
 
+Using these exciting new Azure technologies, it is now possible to create applications that can rapidly predict image content and then use that prediction to make (in this case) life-saving decisions.  
 
