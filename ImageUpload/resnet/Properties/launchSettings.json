@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "resnet": {
+      "commandName": "Project",
+      "commandLineArgs": "168.62.38.171:80 C:\\\\JB_Azure\\\\Azure_ML_Vision_Ted_Way\\\\Snowleopard.jpg false"
+    }
+  }
+}
