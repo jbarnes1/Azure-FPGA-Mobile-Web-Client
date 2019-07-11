@@ -11,7 +11,10 @@ This working example seeks to extend the previous work that is outlined above to
 
 This implementation seeks to take it a step further by enhancing the initial FPGA-Enabled Web Service
 by adding a JQuery Mobile enabled Web client. The client can then be used to further test the ML Web Service by allowing the user to:
-visually select images (from any desktop or mobile device), submit them to the Web Service for   
+  * Visually select images (from any desktop or mobile device).
+  * Submit the image to the ML web Service hosted on a FPGA-enabled AKS Cluster.
+  * Receive up to (5) predictions (ordered by probability).
+  * Prediction timing data for the FPGA Web Service Call. 
 
 Below is a high-level overview of the Architecture and the (2) basic steps to create this solution:
 
