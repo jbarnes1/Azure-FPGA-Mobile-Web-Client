@@ -53,10 +53,10 @@ Next, use the PYTHON Notebook in this repo to develop/deploy an ML model to an F
 
 Once you have a working model deployed and working with a test Python client (included in the Python Notebook above), you can then open the Visual Studio 2017 project in IMAGE_UPLOAD folder, and then build and deploy the project.  One of the keys to success is to make sure that the IP address of your Azure AKS Cluster is updated in the ASP.NEt application like below:
 
- * ![IP Address Correlation:](Python-ASP.NET_Correlation.png)
+  ![IP Address Correlation:](Python-ASP.NET_Correlation.png)
 
-You can see a aorking demo at this URL: 
- * [Demo:](https://jbfpga.azurewebsites.net/jbjqm.html)
+You can see a working demo at this URL: 
+ * [Azure FPGA Demo:](https://jbfpga.azurewebsites.net/jbjqm.html)
 
 
 
