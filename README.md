@@ -1,2 +1,2 @@
 # Fun with FPGAs
-![Image description](link-to-image)
+![Image description](Architecture.png)
