@@ -32,6 +32,6 @@ There are many commercial and consumer scenarios that can benefit from this type
 For example, many people may not be able to distinguish between certain animal species, like poisonous snakes for example.
 
 
-![Image description](FPGA_Predict_4_GarterSnake.png)  ![Image description](FPGA_Predict_3_GreenMamba.png)
+![Image description](FPGA_Predict_4_GarterSnake.png) ![Image description](FPGA_Predict_3_GreenMamba.png)
 
 
