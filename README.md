@@ -1,5 +1,5 @@
 # Fun with FPGAs!
-![Image description](FPGA_Predict_1.png)
+![Image description](FPGA_Predict_1sm.png)
 This working example seeks to extend the previous work that is referenced below to develop & deploy a Machine Learning Model (using a Databricks Python Notebook) to an Azure AKS Cluster that has specifically been provisioned with FPGA enabled Azure Virtual Machines (Standard PBS Family vCPU).  
 
 This implementation seeks to take it a step further by enhancing the initial FPGA-Enabled Web Service
