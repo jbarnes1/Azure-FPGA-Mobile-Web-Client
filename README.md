@@ -48,8 +48,15 @@ First, follow the link below to provision an AML environment.
 Make sure you have the appropriate VM quota permisions to deploy an FPGA-Enabled AKS Cluster in your subscription.  You can request a quota increase using this form: 
   * [FPGA Quota Request Form:](https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR2nac9-PZhBDnNSV2ITz0LNUN0U5S0hXRkNITk85QURTWk9ZUUFUWkkyTC4u)
 
-Next, use this PYTHON Notebook to develop/deploy an ML model to an FPGA-enabled AKS Cluster: 
+Next, use the PYTHON Notebook in this repo to develop/deploy an ML model to an FPGA-enabled AKS Cluster: 
   * [Python Notebook:](https://github.com/jbarnes1/Azure-FPGA-Mobile-Web-Client/blob/master/Notebooks/jbFPGA_Python_AML_Service_v5.ipynb)
+
+Once you have a working model deployed and working with a test Python client (included in the Python Notebook above), you can then open the Visual Studio 2017 project in IMAGE_UPLOAD folder, and then build and deploy the project.  One of the keys to success is to make sure that the IP address of your Azure AKS Cluster is updated in the ASP.NEt application like below:
+
+ * [IP Address Correlation:](Python-ASP.NET_Correlation.png)
+
+
+
 
 
 
