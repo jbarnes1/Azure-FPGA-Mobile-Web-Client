@@ -58,7 +58,7 @@ Once you have a working model deployed and working with a test Python client (in
 You can see a working demo at this URL: 
  * [Azure FPGA Demo:](https://jbfpga.azurewebsites.net/jbjqm.html)
 
-
+ENJOY!
 
 
 
