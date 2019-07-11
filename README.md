@@ -18,6 +18,12 @@ This repo contains extensions to previous work from these sources:
  * Deploy a model as a web service on an FPGA with Azure Machine Learning service
   https://docs.microsoft.com/en-us/azure/machine-learning/service/how-to-deploy-fpga-web-service
 
+Note that the Machine Learning model that is deployed to the Azure FPGA-enabled AKS Cluster is based upon a set of (1000) images that have been previously usied to train the model.
+
+
 Below is a high-level overview of the Architecture and the (2) basic steps to create this solution:
 
 ![Image description](Architecture.png)
+
+## Practical Uses
+One
