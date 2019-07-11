@@ -30,6 +30,10 @@ Below is a high-level overview of the Architecture and the (2) basic steps to cr
 ## Practical Uses
 There are many commercial and consumer scenarios that can benefit from this type of fast image recognition/prediction capability.
 For example, many people may not be able to distinguish between certain animal species, like poisonous snakes for example.
+Below is an example of poisonous snake detection. 
+ * On the left - an image of a Garter Snake - which is non-venomous and virtually harmless. 
+ * On the right - an image of the Green Mamba - which is a highly venomous snake.
+
 
 
 ![Image description](FPGA_Predict_4_GarterSnake.png) ![Image description](FPGA_Predict_3_GreenMamba.png)
