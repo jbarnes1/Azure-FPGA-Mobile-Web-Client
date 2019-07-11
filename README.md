@@ -36,5 +36,5 @@ Below is an example of poisonous snake detection.
 
 ![Image description](FPGA_Predict_4_GarterSnake.png) ![Image description](FPGA_Predict_3_GreenMamba.png)
 
-Using these exciting new Azure technologies, it is now possible to create applications that can rapidly predict image content and then use that prediction to make (in this case) life-saving decisions.  
+Using these exciting new Azure technologies like Machine Learning and FPGA, it is now possible to create applications that can rapidly predict image contents (in under a second) and then use that prediction to make (in this case) life-saving decisions.  
 
