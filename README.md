@@ -38,3 +38,14 @@ Below is an example of poisonous snake detection.
 
 Using these exciting new Azure technologies like Machine Learning and FPGA, it is now possible to create applications that can rapidly predict image contents (in under a second) and then use that prediction to make (in this case) life-saving decisions.  
 
+#To Get started
+
+First, folllow this link to provision an AML environment.
+
+Next, use this PYTHON Notebook to develop/deploy an ML model to an FPGA -enabled AKS Cluster: [Python Notebook:](https://github.com/jbarnes1/Azure-FPGA-Mobile-Web-Client/blob/master/Notebooks/jbFPGA_Python_AML_Service_v5.ipynb)
+
+
+
+
+
+
