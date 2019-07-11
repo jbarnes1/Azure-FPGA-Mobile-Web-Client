@@ -13,12 +13,14 @@ by adding a JQuery Mobile enabled Web client. The client can then be used to fur
 This repo contains extensions to previous work from these sources:  
 
  * Microsoft Azure Machine Learning Hardware Accelerated Models Powered by Project Brainwave
-  https://github.com/Azure/aml-real-time-ai
+   https://github.com/Azure/aml-real-time-ai
 
  * Deploy a model as a web service on an FPGA with Azure Machine Learning service
-  https://docs.microsoft.com/en-us/azure/machine-learning/service/how-to-deploy-fpga-web-service
+   https://docs.microsoft.com/en-us/azure/machine-learning/service/how-to-deploy-fpga-web-service
 
-Note that the Machine Learning model that is deployed to the Azure FPGA-enabled AKS Cluster is based upon a set of (1000) images that have been previously usied to train the model.
+Note that the Machine Learning model that is deployed to the Azure FPGA-enabled AKS Cluster is based upon a set of (1000) images that have been previously usied to train the model. You can see a list of these images at the URL below:
+ * https://raw.githubusercontent.com/Lasagne/Recipes/master/examples/resnet50/imagenet_classes.txt
+
 
 
 Below is a high-level overview of the Architecture and the (2) basic steps to create this solution:
@@ -26,4 +28,10 @@ Below is a high-level overview of the Architecture and the (2) basic steps to cr
 ![Image description](Architecture.png)
 
 ## Practical Uses
-One
+There are many commercial and consumer scenarios that can benefit from this type of fast image recognition/prediction capability.
+For example, many people may not be able to distinguish between certain animal species, like poisonous snakes for example.
+
+
+![Image description](GaterSnake.png)  ![Image description](GreenMamba.png)
+
+
