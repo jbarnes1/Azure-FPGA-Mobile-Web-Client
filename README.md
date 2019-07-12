@@ -3,12 +3,6 @@
 
 This working example seeks to extend the previous work that is referenced below to develop & deploy a Machine Learning Model (using a Databricks Python Notebook) to an Azure AKS Cluster that has specifically been provisioned with FPGA enabled Azure Virtual Machines (Standard PBS Family vCPU).  
 
-## Helpful Hint:
-When provisioning your Azure Databricks cluster, install the following PyPI Libraries:
-  * azureml.accel.models
-  * azure.storage.blob
-  * tensorflow==1.10
-
 This implementation seeks to take it a step further by enhancing the initial FPGA-Enabled Web Service
 by adding a JQuery Mobile enabled Web client. The client can then be used to further test the ML Web Service by allowing the user to:
   * Visually select images (from any desktop or mobile device).
@@ -45,11 +39,16 @@ Below is an example of poisonous snake detection.
 Using these exciting new Azure technologies like Machine Learning and FPGA, it is now possible to create applications that can rapidly predict image contents (in under a second) and then use that prediction to make (in this case) life-saving decisions.  
 
 ## To Get started
-
 First, follow the link below to provision an AML environment.
 
   * Deploy a model as a web service on an FPGA with Azure Machine Learning service
    https://docs.microsoft.com/en-us/azure/machine-learning/service/how-to-deploy-fpga-web-service
+
+## Helpful Hint:
+When provisioning your Azure Databricks cluster, install the following PyPI Libraries:
+  * azureml.accel.models
+  * azure.storage.blob
+  * tensorflow==1.10
 
 Make sure you have the appropriate VM quota permisions to deploy an FPGA-Enabled AKS Cluster in your subscription.  You can request a quota increase using this form: 
   * [FPGA Quota Request Form:](https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR2nac9-PZhBDnNSV2ITz0LNUN0U5S0hXRkNITk85QURTWk9ZUUFUWkkyTC4u)
