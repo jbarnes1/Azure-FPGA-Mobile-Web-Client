@@ -3,6 +3,12 @@
 
 This working example seeks to extend the previous work that is referenced below to develop & deploy a Machine Learning Model (using a Databricks Python Notebook) to an Azure AKS Cluster that has specifically been provisioned with FPGA enabled Azure Virtual Machines (Standard PBS Family vCPU).  
 
+## Helpful Hint:
+When provisioning your Azure Databricks cluster, install the following PyPI Libraries:
+  * azureml.accel.models
+  * azure.storage.blob
+  * tensorflow==1.10
+
 This implementation seeks to take it a step further by enhancing the initial FPGA-Enabled Web Service
 by adding a JQuery Mobile enabled Web client. The client can then be used to further test the ML Web Service by allowing the user to:
   * Visually select images (from any desktop or mobile device).
